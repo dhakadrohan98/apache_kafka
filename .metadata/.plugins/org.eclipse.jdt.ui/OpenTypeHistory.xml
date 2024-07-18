@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=OrderProducer/C:\/Users\/Wissen\/.m2\/repository\/org\/apache\/kafka\/kafka-clients\/3.7.0\/kafka-clients-3.7.0.jar=/maven.pomderived=/true=/=/maven.groupId=/org.apache.kafka=/=/maven.artifactId=/kafka-clients=/=/maven.version=/3.7.0=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.apache.kafka.common.serialization(Serializer.class[Serializer" modifiers="1537" timestamp="1721215865302"/>
+    <typeInfo handle="=OrderConsumer/C:\/Users\/Wissen\/.m2\/repository\/com\/fasterxml\/jackson\/core\/jackson-databind\/2.17.2\/jackson-databind-2.17.2.jar=/maven.pomderived=/true=/=/maven.groupId=/com.fasterxml.jackson.core=/=/maven.artifactId=/jackson-databind=/=/maven.version=/2.17.2=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;com.fasterxml.jackson.databind.deser(Deserializers.class[Deserializers" modifiers="1537" timestamp="1721284807493"/>
+    <typeInfo handle="=OrderConsumer/C:\/Users\/Wissen\/.m2\/repository\/org\/apache\/kafka\/kafka-clients\/3.7.0\/kafka-clients-3.7.0.jar=/maven.pomderived=/true=/=/maven.groupId=/org.apache.kafka=/=/maven.artifactId=/kafka-clients=/=/maven.version=/3.7.0=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.apache.kafka.common.serialization(Deserializer.class[Deserializer" modifiers="1537" timestamp="1721215865302"/>
+</typeInfoHistroy>
