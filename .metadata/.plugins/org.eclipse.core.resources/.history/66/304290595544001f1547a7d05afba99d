@@ -1,0 +1,19 @@
+package com.wissen.kafka.OrderConsumer;
+
+import java.util.Properties;
+
+import org.apache.kafka.clients.consumer.KafkaConsumer;
+
+public class OrderConsumer {
+
+	public static void main(String[] args) {
+		Properties prop = new Properties();
+		prop.setProperty("bootstrap.servers", "localhost:9092");
+		prop.setProperty("key.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
+		prop.setProperty("value.deserializer", "org.apache.kafka.common.serialization.IntegerDeserializer");
+		prop.setProperty("group.id", "OrderGroup");
+		
+		KafkaConsumer<String, Integer> 
+	}
+
+}
