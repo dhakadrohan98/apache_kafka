@@ -45,3 +45,5 @@ public class OrderProducer {
 	}
 
 }
+
+//Product -> name(String), price(Integer)
