@@ -1,0 +1,14 @@
+package com.wissen.kafka.OrderConsumer;
+
+import java.util.Properties;
+
+public class OrderConsumer {
+
+	public static void main(String[] args) {
+		Properties prop = new Properties();
+		prop.setProperty("bootstrap.servers", "localhost:9092");
+		prop.setProperty("key.serializer", "org.apache.kafka.common.serialization.StringSerializer");
+		prop.setProperty("value.serializer", "org.apache.kafka.common.serialization.IntegerSerializer");
+	}
+
+}

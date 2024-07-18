@@ -1,0 +1,11 @@
+package com.wissen.kafka.OrderConsumer;
+
+import java.util.Properties;
+
+public class OrderConsumer {
+
+	public static void main(String[] args) {
+		Properties prop = new Properties()
+	}
+
+}
