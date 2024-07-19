@@ -16,4 +16,6 @@
     <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.deser.std.StringDeserializer"/>
     <fullyQualifiedTypeName name="org.apache.kafka.common.serialization.StringDeserializer"/>
     <fullyQualifiedTypeName name="com.wissen.kafka.OrderConsumer.deserializers.OrderDeserializer"/>
+    <fullyQualifiedTypeName name="io.confluent.kafka.serializers.KafkaAvroDeserializer"/>
+    <fullyQualifiedTypeName name="io.confluent.kafka.serializers.KafkaAvroSerializer"/>
 </qualifiedTypeNameHistroy>
