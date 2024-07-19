@@ -1791,3 +1791,45 @@ java.lang.Exception: File not found: D:\Nagendra Kommana GithubCopilot Docker Ku
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 12:34:01.927
 !MESSAGE Classpath changed for project: avroconsumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:20:31.180
+!MESSAGE Classpath changed for project: UserProducer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:20:31.183
+!MESSAGE Boot project ADDED: UserProducer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:20:31.183
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:20:31.185
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:20:32.774
+!MESSAGE Classpath changed for project: UserProducer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:20:33.524
+!MESSAGE Classpath changed for project: UserProducer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:20:44.270
+!MESSAGE Classpath changed for project: UserConsumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:20:44.272
+!MESSAGE Boot project ADDED: UserConsumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:20:45.236
+!MESSAGE Classpath changed for project: UserConsumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:20:49.716
+!MESSAGE Classpath changed for project: UserProducer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:20:49.905
+!MESSAGE Classpath changed for project: UserConsumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:21:05.309
+!MESSAGE Classpath changed for project: UserConsumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:21:05.310
+!MESSAGE Classpath changed for project: UserProducer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-07-19 13:59:29.161
+!MESSAGE Classpath changed for project: UserConsumer

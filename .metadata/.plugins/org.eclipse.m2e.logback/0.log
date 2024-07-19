@@ -1974,3 +1974,692 @@ org.eclipse.core.runtime.CoreException: Launch configuration OrderProducer refer
 2024-07-18 20:37:40,579 [Worker-69: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
 2024-07-18 20:37:40,760 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\main\resources
 2024-07-18 20:37:40,762 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:37:27,654 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-19 09:40:00,002 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [359])
+2024-07-19 09:40:00,005 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2024-07-19 09:40:00,005 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2024-07-19 09:40:00,005 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2024-07-19 09:40:00,005 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2024-07-19 09:40:00,005 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2024-07-19 09:40:00,005 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2024-07-19 09:40:00,006 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2024-07-19 09:40:00,006 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2024-07-19 09:40:00,006 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2024-07-19 09:40:00,006 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2024-07-19 09:40:00,006 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2024-07-19 09:40:00,006 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2024-07-19 09:40:00,006 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2024-07-19 09:40:00,006 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2024-07-19 09:40:00,007 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2024-07-19 09:40:00,007 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2024-07-19 09:40:00,007 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2024-07-19 09:40:00,007 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2024-07-19 09:40:00,007 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2024-07-19 09:40:00,007 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2024-07-19 09:40:00,007 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2024-07-19 09:40:00,007 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2024-07-19 09:40:00,007 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2024-07-19 09:40:00,007 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2024-07-19 09:40:00,007 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2024-07-19 09:40:00,008 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2024-07-19 09:40:00,008 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2024-07-19 09:40:00,008 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2024-07-19 09:40:00,008 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2024-07-19 09:40:00,008 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-07-19 09:40:00,008 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-07-19 09:40:00,008 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2024-07-19 09:40:00,008 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2024-07-19 09:40:00,008 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2024-07-19 09:40:00,008 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2024-07-19 09:40:00,008 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2024-07-19 09:40:00,008 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2024-07-19 09:40:00,008 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2024-07-19 09:40:00,009 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2024-07-19 09:40:00,009 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2024-07-19 09:40:00,009 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2024-07-19 09:40:00,009 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2024-07-19 09:40:00,009 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2024-07-19 09:40:00,010 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.2.0.jre [29])
+2024-07-19 09:40:00,010 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\com.google.guava_33.2.0.jre.jar
+2024-07-19 09:40:00,010 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [592])
+2024-07-19 09:40:00,010 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\slf4j.api_2.0.13.jar
+2024-07-19 09:40:00,010 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [44])
+2024-07-19 09:40:00,010 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-07-19 09:40:00,010 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [53])
+2024-07-19 09:40:00,010 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-07-19 09:40:00,011 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.8.0 [76])
+2024-07-19 09:40:00,011 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.apache.commons.cli_1.8.0.jar
+2024-07-19 09:40:00,011 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-07-19 09:40:00,011 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-07-19 09:40:00,011 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [82])
+2024-07-19 09:40:00,011 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-07-19 09:40:00,011 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2024-07-19 09:40:00,011 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-07-19 09:40:00,018 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Wissen\AppData\Local\Temp\m2e-archetypeGenerator15462945684004910825":
+2024-07-19 09:40:00,021 [Worker-10: Launching mavenrun-76cc49fc-a392-4edc-95f6-cb469464306f] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 -DgroupId=com.wissen.kafka -DartifactId=avroconsumer -Dversion=0.0.1-SNAPSHOT -Dpackage=com.wissen.kafka.avroconsumer -DoutputDirectory="D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS" -Dstyle.color=always -U archetype:generate
+2024-07-19 09:40:09,034 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\pom.xml
+2024-07-19 09:40:09,322 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wissen.kafka:avroconsumer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\pom.xml.
+2024-07-19 09:40:09,841 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroconsumer/src/main/java
+2024-07-19 09:40:09,842 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroconsumer/src/main/resources
+2024-07-19 09:40:09,851 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroconsumer/src/test/java
+2024-07-19 09:40:09,852 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroconsumer/src/test/resources
+2024-07-19 09:40:09,951 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-19 09:40:10,386 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\main\resources
+2024-07-19 09:40:10,390 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:40:45,143 [Worker-11: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: expected > to finsh end tag not < from line 16 (position: TEXT seen ...<maven.compiler.target>11</maven.compiler.target\r\n  <... @17:4) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected > to finsh end tag not < from line 16 (position: TEXT seen ...<maven.compiler.target>11</maven.compiler.target\r\n  <... @17:4) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2172)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1418)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextText(MXParser.java:1335)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2306)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-07-19 09:40:46,288 [Worker-8: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: expected > to finsh end tag not < from line 16 (position: TEXT seen ...<maven.compiler.target>11</maven.compiler.target\r\n  <... @17:4) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected > to finsh end tag not < from line 16 (position: TEXT seen ...<maven.compiler.target>11</maven.compiler.target\r\n  <... @17:4) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2172)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1418)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextText(MXParser.java:1335)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2306)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-07-19 09:40:46,351 [Worker-5: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\pom.xml: expected > to finsh end tag not < from line 17 (position: TEXT seen ...<maven.compiler.target>11</maven.compiler.target\r\n\t<... @18:3)  @ line 18, column 3
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\pom.xml: expected > to finsh end tag not < from line 17 (position: TEXT seen ...<maven.compiler.target>11</maven.compiler.target\r\n\t<... @18:3)  @ line 18, column 3
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:140)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:943)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:939)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:219)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-19 09:40:47,353 [Worker-5: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: expected > to finsh end tag not < from line 17 (position: TEXT seen ...<maven.compiler.target>11</maven.compiler.target\r\n\t<... @18:3) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected > to finsh end tag not < from line 17 (position: TEXT seen ...<maven.compiler.target>11</maven.compiler.target\r\n\t<... @18:3) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2172)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1418)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextText(MXParser.java:1335)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2306)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-07-19 09:40:56,423 [Worker-5: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\pom.xml: expected > to finsh end tag not < from line 16 (position: TEXT seen ...<maven.compiler.target>11</maven.compiler.target\r\n  <... @17:4)  @ line 17, column 4
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\pom.xml: expected > to finsh end tag not < from line 16 (position: TEXT seen ...<maven.compiler.target>11</maven.compiler.target\r\n  <... @17:4)  @ line 17, column 4
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:140)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:943)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:939)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:219)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-19 09:40:56,527 [Worker-11: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: expected > to finsh end tag not < from line 16 (position: TEXT seen ...<maven.compiler.target>11</maven.compiler.target\r\n  <... @17:4) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected > to finsh end tag not < from line 16 (position: TEXT seen ...<maven.compiler.target>11</maven.compiler.target\r\n  <... @17:4) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2172)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1418)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextText(MXParser.java:1335)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2306)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-07-19 09:41:00,864 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wissen.kafka:avroconsumer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\pom.xml.
+2024-07-19 09:41:01,089 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\main\resources
+2024-07-19 09:41:01,091 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:41:02,194 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\main\resources
+2024-07-19 09:41:02,196 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:41:25,720 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wissen.kafka:avroconsumer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\pom.xml.
+2024-07-19 09:41:25,783 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\main\resources
+2024-07-19 09:41:25,785 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:41:36,706 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wissen.kafka:avroconsumer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\pom.xml.
+2024-07-19 09:41:36,771 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\main\resources
+2024-07-19 09:41:36,773 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:42:07,424 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wissen.kafka:avroconsumer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\pom.xml.
+2024-07-19 09:42:07,609 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\main\resources
+2024-07-19 09:42:07,611 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:42:07,775 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-19 09:42:07,902 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wissen.kafka:avroconsumer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\pom.xml.
+2024-07-19 09:42:08,368 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroconsumer/src/main/java
+2024-07-19 09:42:08,369 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroconsumer/src/main/resources
+2024-07-19 09:42:08,370 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroconsumer/src/test/java
+2024-07-19 09:42:08,370 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroconsumer/src/test/resources
+2024-07-19 09:42:08,493 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-19 09:42:08,829 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\main\resources
+2024-07-19 09:42:08,832 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:42:46,685 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-19 09:42:46,793 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wissen.kafka:avroconsumer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\pom.xml.
+2024-07-19 09:42:47,115 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroconsumer/src/main/java
+2024-07-19 09:42:47,116 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroconsumer/src/main/resources
+2024-07-19 09:42:47,116 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroconsumer/src/test/java
+2024-07-19 09:42:47,116 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroconsumer/src/test/resources
+2024-07-19 09:42:47,176 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-19 09:42:47,332 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\main\resources
+2024-07-19 09:42:47,334 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:44:43,071 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\main\resources
+2024-07-19 09:44:43,072 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:44:55,370 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-19 09:44:55,372 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:45:58,292 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:45:58,296 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:46:26,932 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [359])
+2024-07-19 09:46:26,932 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-07-19 09:46:26,933 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.2.0.jre [29])
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\com.google.guava_33.2.0.jre.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [592])
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\slf4j.api_2.0.13.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [44])
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [53])
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.8.0 [76])
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.apache.commons.cli_1.8.0.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [82])
+2024-07-19 09:46:26,935 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-07-19 09:46:26,936 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2024-07-19 09:46:26,936 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-07-19 09:46:26,936 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer":
+2024-07-19 09:46:26,936 [Worker-5: Launching Executing clean in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2024-07-19 09:46:28,708 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:46:28,711 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:46:46,352 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [359])
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2024-07-19 09:46:46,353 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.2.0.jre [29])
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\com.google.guava_33.2.0.jre.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [592])
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\slf4j.api_2.0.13.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [44])
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [53])
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-07-19 09:46:46,354 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.8.0 [76])
+2024-07-19 09:46:46,355 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.apache.commons.cli_1.8.0.jar
+2024-07-19 09:46:46,355 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-07-19 09:46:46,355 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-07-19 09:46:46,355 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [82])
+2024-07-19 09:46:46,355 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-07-19 09:46:46,355 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2024-07-19 09:46:46,355 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\springtoolsuite\sts-4.23.1.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-07-19 09:46:46,355 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer":
+2024-07-19 09:46:46,355 [Worker-14: Launching Executing generate-sources in D__Nagendra Kommana GithubCopilot Docker Kubernetes training videos_Apache kafka training_ApacheKafkaSTS_avroconsumer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always generate-sources
+2024-07-19 09:46:48,758 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:46:48,759 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:48:09,732 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:48:09,733 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:48:59,016 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:48:59,017 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:49:28,802 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:49:28,804 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:51:08,045 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:51:08,047 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:51:51,150 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:51:51,151 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:52:15,848 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:52:15,848 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:52:18,328 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:52:18,329 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:52:23,797 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:52:23,798 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:52:30,107 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:52:30,107 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:52:49,371 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:52:49,372 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 09:54:05,273 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 09:54:05,274 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 11:59:31,613 [Worker-47: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration OrderConsumer (2) references non-existing project avroconsumer.
+org.eclipse.core.runtime.CoreException: Launch configuration OrderConsumer (2) references non-existing project avroconsumer.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-19 11:59:31,615 [Worker-47: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration OrderConsumer (2) references non-existing project avroconsumer.
+org.eclipse.core.runtime.CoreException: Launch configuration OrderConsumer (2) references non-existing project avroconsumer.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-19 11:59:31,624 [Worker-47: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration OrderConsumer (2) references non-existing project avroconsumer.
+org.eclipse.core.runtime.CoreException: Launch configuration OrderConsumer (2) references non-existing project avroconsumer.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-19 11:59:39,247 [Worker-46: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration OrderProducer (2) references non-existing project avroproducer.
+org.eclipse.core.runtime.CoreException: Launch configuration OrderProducer (2) references non-existing project avroproducer.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-19 11:59:39,248 [Worker-46: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration OrderProducer (2) references non-existing project avroproducer.
+org.eclipse.core.runtime.CoreException: Launch configuration OrderProducer (2) references non-existing project avroproducer.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-19 11:59:39,258 [Worker-46: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration OrderProducer (2) references non-existing project avroproducer.
+org.eclipse.core.runtime.CoreException: Launch configuration OrderProducer (2) references non-existing project avroproducer.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-19 12:00:05,641 [Worker-49: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nagendra.kafka:avroproducer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\avroproducer\pom.xml.
+2024-07-19 12:00:10,295 [Worker-49: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroproducer/src/main/java
+2024-07-19 12:00:10,296 [Worker-49: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroproducer/src/main/resources
+2024-07-19 12:00:10,296 [Worker-49: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroproducer/src/test/java
+2024-07-19 12:00:10,296 [Worker-49: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroproducer/src/test/resources
+2024-07-19 12:00:10,357 [Worker-49: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2024-07-19 12:00:10,707 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 12:00:10,716 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\avroproducer\src\test\resources
+2024-07-19 12:00:19,409 [Worker-37: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nagendra.kafka:avroconsumer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\avroconsumer\pom.xml.
+2024-07-19 12:00:19,639 [Worker-37: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroconsumer/src/main/java
+2024-07-19 12:00:19,641 [Worker-37: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroconsumer/src/main/resources
+2024-07-19 12:00:19,644 [Worker-37: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroconsumer/src/test/java
+2024-07-19 12:00:19,645 [Worker-37: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroconsumer/src/test/resources
+2024-07-19 12:00:19,698 [Worker-37: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-19 12:00:20,186 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 12:00:20,193 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\avroconsumer\src\test\resources
+2024-07-19 12:00:35,016 [Worker-50: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-19 12:00:35,153 [Worker-50: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nagendra.kafka:avroproducer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\avroproducer\pom.xml.
+2024-07-19 12:00:35,275 [Worker-50: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nagendra.kafka:avroconsumer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\avroconsumer\pom.xml.
+2024-07-19 12:00:35,876 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroproducer/src/main/java
+2024-07-19 12:00:35,876 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroproducer/src/main/resources
+2024-07-19 12:00:35,876 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroproducer/src/test/java
+2024-07-19 12:00:35,876 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroproducer/src/test/resources
+2024-07-19 12:00:35,940 [Worker-50: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-19 12:00:36,196 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 12:00:36,204 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\avroproducer\src\test\resources
+2024-07-19 12:00:44,775 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-19 12:00:44,890 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nagendra.kafka:avroconsumer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\avroconsumer\pom.xml.
+2024-07-19 12:00:45,024 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nagendra.kafka:avroproducer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\avroproducer\pom.xml.
+2024-07-19 12:00:45,656 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroconsumer/src/main/java
+2024-07-19 12:00:45,657 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroconsumer/src/main/resources
+2024-07-19 12:00:45,657 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroconsumer/src/test/java
+2024-07-19 12:00:45,657 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroconsumer/src/test/resources
+2024-07-19 12:00:45,722 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-19 12:00:45,917 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 12:00:45,924 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\avroconsumer\src\test\resources
+2024-07-19 12:32:38,377 [Worker-55: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - File not found: D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\avroproducer\pom.xml.
+org.eclipse.core.internal.resources.ResourceException: File not found: D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\avroproducer\pom.xml.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:882)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:299)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:290)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:589)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.Exception: File not found: D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\avroproducer\pom.xml.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 27 common frames omitted
+2024-07-19 12:33:37,672 [Worker-58: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nagendra.kafka:avroproducer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroproducer\pom.xml.
+2024-07-19 12:33:38,292 [Worker-58: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroproducer/src/main/java
+2024-07-19 12:33:38,292 [Worker-58: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroproducer/src/main/resources
+2024-07-19 12:33:38,292 [Worker-58: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroproducer/src/test/java
+2024-07-19 12:33:38,292 [Worker-58: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroproducer/src/test/resources
+2024-07-19 12:33:38,334 [Worker-58: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-19 12:33:38,640 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 12:33:38,648 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroproducer\src\test\resources
+2024-07-19 12:34:01,705 [Worker-57: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nagendra.kafka:avroconsumer:0.0.1-SNAPSHOT @ D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\pom.xml.
+2024-07-19 12:34:01,869 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroconsumer/src/main/java
+2024-07-19 12:34:01,869 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroconsumer/src/main/resources
+2024-07-19 12:34:01,869 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /avroconsumer/src/test/java
+2024-07-19 12:34:01,870 [Worker-57: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /avroconsumer/src/test/resources
+2024-07-19 12:34:01,918 [Worker-57: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-07-19 12:34:02,177 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 12:34:02,181 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
+2024-07-19 12:34:03,269 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-19 12:34:03,272 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroconsumer\src\test\resources
