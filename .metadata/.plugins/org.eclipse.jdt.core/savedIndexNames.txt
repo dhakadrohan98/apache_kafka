@@ -1,14 +1,11 @@
 INDEX VERSION 1.134+D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\.metadata\.plugins\org.eclipse.jdt.core
-1350543848.index
-369914170.index
-3112905135.index
-3867953848.index
-2414301094.index
+3120889274.index
 3867989641.index
-1865797976.index
-1377761941.index
 2356104636.index
-1852534225.index
-4263968804.index
-774461003.index
 1800418119.index
+1865797976.index
+774461003.index
+3112905135.index
+2414301094.index
+3867953848.index
+369914170.index

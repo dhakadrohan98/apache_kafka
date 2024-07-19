@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS\avroproducer"/>
 			<item value="D:\Nagendra Kommana GithubCopilot Docker Kubernetes training videos\Apache kafka training\ApacheKafkaSTS"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,17 +27,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.wissen.kafka.OrderConsumer"/>
-			<item value="com.wissen.kafka.orderproducer"/>
-			<item value="com.wissen.kafka.org.apache"/>
+			<item value="com.wissen.avro.avroconsumer"/>
+			<item value="com.wissen.agro.avroconsumer"/>
 		</list>
 		<list key="groupId">
-			<item value="com.wissen.kafka"/>
+			<item value="com.wissen.avro"/>
+			<item value="com.wissen.agro"/>
 		</list>
 		<list key="artifactId">
-			<item value="OrderConsumer"/>
-			<item value="orderproducer"/>
-			<item value="org.apache"/>
+			<item value="avroconsumer"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -72,5 +71,7 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
 	</section>
 </section>
